@@ -17,7 +17,7 @@ def mrn_check():
     if mrn == mrn_count:
         print("ok")
     else:
-        print("Check MRN and Re-enter")
+        print("Check MRN and Re-enter, please")
         mrn_check()
 
 
